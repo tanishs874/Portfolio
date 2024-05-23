@@ -15,7 +15,7 @@ function Main() {
                 </div>
                 <div className='about-desc'>
                     <p>
-                    Hi,I'm Himanshu. A passionate Full-Stack MERN
+                    Hi,I'm Tanish Sharma. A passionate Full-Stack MERN
                     </p>
                     <p>Developer based in Haryana,India. 📍</p>
                 </div>

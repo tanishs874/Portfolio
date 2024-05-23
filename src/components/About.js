@@ -14,7 +14,7 @@ function About() {
             <p className="about-me-head">ABOUT ME</p>
             <h4 className="about-me-head2">A dedicated Full-Stack Developer</h4>
             <p className="about-me-read">
-              Hi! I'm Himanshu , a Full Stack Developer specializing in the MERN
+              Hi! I'm Tanish Sharma , a Full Stack Developer specializing in the MERN
               stack MongoDB, Express, React, Node and also SQL I'm all about
               turning ideas into reality through clean and efficient code. My
               expertise lies in crafting dynamic,engaging web apps. I am also a

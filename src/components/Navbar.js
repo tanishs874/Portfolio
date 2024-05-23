@@ -5,8 +5,8 @@ const Navbar = () => {
     return (
         <nav>
             <div className="logo">
-                <a href="/2110990614-Himanshu.pdf" download="Himanshu_resume.pdf">
-                    Himanshu.dev
+                <a href="/TANISH-RESUME.pdf" download="TANISH-RESUME.pdf">
+                    Tanish Sharma.dev
                 </a>
             </div>
             <ul className="nav-links">
