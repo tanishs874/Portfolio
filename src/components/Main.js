@@ -21,7 +21,12 @@ function Main() {
                     <p>Developer based in Haryana,India. 📍</p>
                 </div>
                 <div>
-                   <FaLinkedin className='link'/> <FaGithub className='link'/>
+                <a href="https://www.linkedin.com/in/tanish-sharma22/" target="_blank" rel="noopener noreferrer">
+              <FaLinkedin className='link'/>
+            </a>
+            <a href="https://github.com/tanishs874" target="_blank" rel="noopener noreferrer">
+              <FaGithub className='link'/>
+            </a>
                 </div>
             </div>
             <div className='photo'>
