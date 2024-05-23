@@ -2,6 +2,7 @@ import React from 'react'
 import { FaGithub } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { MdOutlineKeyboardDoubleArrowDown } from "react-icons/md";
+import tanish from '../assests/tanishportfolio.jpg'
 import "./Main.css"
 
 function Main() {
@@ -24,7 +25,7 @@ function Main() {
                 </div>
             </div>
             <div className='photo'>
-                <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5dHFiNmpnOWllOWw5cnhhOWdvMHc4b2NjejVvMHl4OHN1Ynd4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u3IfbLCYcN8G0GSraL/giphy.gif' alt="img"/>
+                <img src={tanish} alt="img"/>
             </div>
         </div>
         <div className='readmore'>
